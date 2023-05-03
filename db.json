@@ -455,6 +455,18 @@
       "password": "$2a$10$gVkmcWdnwEBxXj2PWjuv9uDx7BfjiAobbabDAOrH2o8b1i3E7KwR.",
       "role": "admin",
       "id": 1
+    },
+    {
+      "email": "nico@gmail.com",
+      "password": "$2a$10$RXCgyFCA82MHgm9W3tLf3.KfaZ0.hrEWitL9xHyilyCWNGIGChOs6",
+      "role": "waiter",
+      "id": 2
+    },
+    {
+      "email": "sofi@gmail.com",
+      "password": "$2a$10$5s8OHbgjSBxyxXgcJW33W.HrBCWe4ujGnuGpGQ0uPK2GYuQIR1joO",
+      "role": "chef",
+      "id": 3
     }
   ]
 }
